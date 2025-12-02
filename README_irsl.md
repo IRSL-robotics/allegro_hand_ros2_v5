@@ -25,5 +25,7 @@ ros2 run allegro_hand_keyboards allegro_hand_keyboard
 
 
 ## example:
+### run driver:
+ros2 launch allegro_hand_controllers allegro_hand.launch.py HAND:=left TYPE:=B
 ### simple_allegro_example
 ros2 run simple_allegro_example simple_control

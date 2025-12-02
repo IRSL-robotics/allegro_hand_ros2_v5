@@ -15,3 +15,5 @@ COLOR = {
     "pinky":  (0.2, 0.2, 1.0),
     "thumb":  (1.0, 0.7, 0.2),
 }
+
+FINGER_ORDER = ["index", "middle", "pinky", "thumb"]
